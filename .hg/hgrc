@@ -1,0 +1,4 @@
+[paths]
+default = ssh://hg@localhost/pupbot
+[schemes]
+0x3b = ssh://hg@hg.0x3b.com/dwilson/pupbot
